@@ -14,7 +14,7 @@
 
  <p align="center">
     <br />
-    <a href="https://scrypto-landing-page.netlify.app/">Click here to view live project</a>
+    <a href="https://pr0ducts-landing-pages.netlify.app/">Click here to view live project</a>
   </p>
 </div>
 
@@ -41,7 +41,12 @@
 <!-- screenshots -->
 
 ## Screenshots
-[![main page clickable image](./screenshots/main-page.png "main page")](www.google.com)
+
+### 1. For mobile screen
+[![main page clickable image](./screenshots/mobile.jpg "main page")](https://pr0ducts-landing-pages.netlify.app/)
+
+### 2. Laptop screen
+[![main page clickable image](./screenshots/main-page.png "main page")](https://pr0ducts-landing-pages.netlify.app/)
 
 
 
